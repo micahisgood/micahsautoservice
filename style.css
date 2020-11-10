@@ -1,14 +1,9 @@
 body
-{background-color: red }
-
-header{background-color: dimgray;
+    {background-image: url(https://cdn.motor1.com/images/mgl/7yk07/s1/ken-block-s-cars.jpg)}
+header{background-color: crimson;
 text-align: center;
 }
-
-Li {
-    boarders: solid red ipx;
+li {
+    border: solid black;
     display: inline-block;
-    padding: 15px;
-    margin: 8px 35px ;
-    
 }
